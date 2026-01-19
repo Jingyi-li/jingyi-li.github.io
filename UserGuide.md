@@ -25,3 +25,13 @@ bundle install
 ···
 bundle exec jekyll serve
 ···
+
+# Windows through WSL
+进入Ubuntu virtual env
+```
+wsl
+```
+使用如下命令运行
+···
+jekyll serve -l -H localhost
+···
