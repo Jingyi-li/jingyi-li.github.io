@@ -20,6 +20,10 @@ See more info at https://academicpages.github.io/
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.
+run those in Terminal:  
+```
+bundle exec jekyll serve
+```
 
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
