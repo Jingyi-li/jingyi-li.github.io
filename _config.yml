@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Carol Jingyi LI / PostDoc Researcher"
+title                    : "Home" #"Carol Jingyi LI / PostDoc Researcher"
 title_separator          : "P.H.D"
 name                     : &name "Carol Jingyi LI"
 description              : &description "Postdoctoral Researcher at HKUST | Research in SCD, FAM, Sparse SSCA, HLS, FPGAs"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Carol Jingyi LI"
   pronouns         : #"she/her"  
-  bio              : "Jingyi (Carol) Li is a Postdoctoral Fellow in the Department of ECE at the Hong Kong University of Science and Technology. She received her Ph.D. from the University of Sydney, where her research focused on FPGA-based signal processing accelerators. Her current work explores high-performance implementations of cyclostationary signal analysis, reconfigurable computing, and machine learning on AMD Versal ACAP platforms."
+  bio              : "PostDoc Fellowship at HKUST, Ph.D. at The Univeristy of Sydney, M.Eng. at The University of Melbourne, B.Eng. at China Agricultural University. Research in Sparse Coding, Cyclostationary Signal Processing, HLS, AIEs, FPGAs."
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
