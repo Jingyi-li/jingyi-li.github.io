@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2023-06-22-cycloc-trets22
 excerpt: 'This paper is about the cyclostationary.'
 date: 2023-06-22
+selected: true
 venue: 'ACM Transactions on Reconfigurable Technology and Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://jingyi-li.github.io/files/cyclo_trets22.pdf'
